@@ -4,18 +4,18 @@ Automated Detection of Hyalessa maculaticollis from Heterogeneous Citizen-Scienc
 ## Environment
 The learning environment for this project is as follows:
 
-### Hardware
+## Hardware
 *   **GPU**: NVIDIA GeForce RTX 5070 (12GB) x 1
 *   **CPU**: Intel(R) Core(TM) Ultra 7 265K @ 3.90 GHz
 *   **RAM**: 32GB
 
-### Software
+## Software
 *   **OS**: Window 11
 *   **Python version**: Python 3.11.14
 *   **CUDA version**: 12.8
 *   **cuDNN version**: 9.10.2
 
-### Dependencies
+## Dependencies
 **Deep Learning Framework**
 * `torch`: 2.11.0.dev20251217+cu128
 * `torchaudio`: 2.10.0.dev20251217+cu128
