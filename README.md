@@ -61,4 +61,13 @@ The learning environment for this project is as follows:
 
 **Utilities**
 * `tqdm`: 4.67.1
-* `imageio-ffmpeg`: 0.6.0
+* `imageio-ffmpeg`: 0.6.0 
+
+
+## Contact
+
+For access to the full source code or inquiries regarding the citizen science dataset, please reach out via email:
+
+| Name | Email |
+| :--- | :--- |
+| Your Name | [e.jaeyun82@gmail.com](mailto:e.jaeyun82@gmail.com) |
