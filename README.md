@@ -10,25 +10,32 @@ Automated Detection of Hyalessa maculaticollis from Heterogeneous Citizen-Scienc
 [Android APP](https://play.google.com/store/search?q=%EC%A7%80%EA%B5%AC%EC%82%AC%EB%9E%91%ED%83%90%EC%82%AC%EB%8C%80&c=apps&hl=ko)
 
 
-# Project flow
-  1.
+## Project Pipeline
+*  **01. File Convert**: Unified various raw input files into a standardized format for seamless downstream processing
+*  **02. Drawing linear Spectrogram**: Generated linear spectrograms from the standardized audio data, transforming time-frequency information into 2D visual inputs suitable for CNN model training
+*  **03. Spectrogram Segmentation**: Segmented the spectrograms based on the acoustic characteristics of the target species to generate focused data for the model
+*  **04. Resizing**: Resized the segmented spectrogram data to meet the input requirements of the ResNet model
+*  **05. Labeling**: Assigned labels to indicate the presence of the target species, establishing the ground truth for model training
+*  **06. Data Splitting**: Divided the dataset into training and evaluation sets to ensure an unbiased performance measurement
+*  **07. Model Training**: Conducted the training process using the ResNet architecture on the preprocessed spectrogram data
+*  **08. Model Evaluation**: Evaluated the trained model's performance to measure its accuracy and effectiveness in detecting the target species
 
-
+  
 ## Environment
 The learning environment for this project is as follows:
 
-## Hardware
+### Hardware
 *   **GPU**: NVIDIA GeForce RTX 5070 (12GB) x 1
 *   **CPU**: Intel(R) Core(TM) Ultra 7 265K @ 3.90 GHz
 *   **RAM**: 32GB
 
-## Software
+### Software
 *   **OS**: Window 11
 *   **Python version**: Python 3.11.14
 *   **CUDA version**: 12.8
 *   **cuDNN version**: 9.10.2
 
-## Dependencies
+### Dependencies
 **Deep Learning Framework**
 * `torch`: 2.11.0.dev20251217+cu128
 * `torchaudio`: 2.10.0.dev20251217+cu128
