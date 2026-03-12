@@ -10,6 +10,10 @@ Automated Detection of Hyalessa maculaticollis from Heterogeneous Citizen-Scienc
 [Android APP](https://play.google.com/store/search?q=%EC%A7%80%EA%B5%AC%EC%82%AC%EB%9E%91%ED%83%90%EC%82%AC%EB%8C%80&c=apps&hl=ko)
 
 
+# Project flow
+  1.
+
+
 ## Environment
 The learning environment for this project is as follows:
 
