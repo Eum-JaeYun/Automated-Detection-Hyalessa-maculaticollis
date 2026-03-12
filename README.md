@@ -20,6 +20,7 @@ Automated Detection of Hyalessa maculaticollis from Heterogeneous Citizen-Scienc
 *  **07. Model Training**: Conducted the training process using the ResNet architecture on the preprocessed spectrogram data
 *  **08. Model Evaluation**: Evaluated the trained model's performance to measure its accuracy and effectiveness in detecting the target species
 
+> The source code for each stage of the pipeline is available in the code directory. Please note that certain scripts have been withheld from this public repository to protect the personal information of the citizen scientists involved in data collection. If you require access to the full source code for research or verification purposes, please contact me.
   
 ## Environment
 The learning environment for this project is as follows:
