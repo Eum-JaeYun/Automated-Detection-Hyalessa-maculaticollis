@@ -5,7 +5,7 @@ Automated Detection of Hyalessa maculaticollis from Heterogeneous Citizen-Scienc
 
 [Citizen-Science Project Homepage](https://jisatam.dongascience.com/main?utm_source=naver_keyword&utm_medium=cpc&utm_content=earth_project_pc&utm_term=%EC%A7%80%EA%B5%AC%EC%82%AC%EB%9E%91%ED%83%90%EC%82%AC%EB%8C%80&n_media=27758&n_query=%EC%A7%80%EA%B5%AC%EC%82%AC%EB%9E%91%ED%83%90%EC%82%AC%EB%8C%80&n_rank=1&n_ad_group=grp-a001-01-000000047358480&n_ad=nad-a001-01-000000347451557&n_keyword_id=nkw-a001-01-000006781569813&n_keyword=%EC%A7%80%EA%B5%AC%EC%82%AC%EB%9E%91%ED%83%90%EC%82%AC%EB%8C%80&n_campaign_type=1&n_ad_group_type=1&n_match=1)
 
-[IOS APP](https://apps.apple.com/kr/app/%EC%A7%80%EA%B5%AC%EC%82%AC%EB%9E%91%ED%83%90%EC%82%AC%EB%8C%80/id6670779182)
+[Ios APP](https://apps.apple.com/kr/app/%EC%A7%80%EA%B5%AC%EC%82%AC%EB%9E%91%ED%83%90%EC%82%AC%EB%8C%80/id6670779182)
 
 [Android APP](https://play.google.com/store/search?q=%EC%A7%80%EA%B5%AC%EC%82%AC%EB%9E%91%ED%83%90%EC%82%AC%EB%8C%80&c=apps&hl=ko)
 
