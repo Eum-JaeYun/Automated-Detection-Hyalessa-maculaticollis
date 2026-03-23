@@ -1,4 +1,4 @@
-# Automated Detection of $Hyalessa$ $maculaticollis$
+# Automated Detection of Hyalessa maculaticollis
 This project focuses on developing an automated detection system by leveraging the unique acoustic characteristics of $Hyalessa$ $maculaticollis$ . Moving beyond simple data analysis, we propose a species-informed approach that integrates biological domain knowledge with deep learning architecture.
 
 # Earth Loving Explorers: A Citizen Science platform
